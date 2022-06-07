@@ -1,0 +1,74 @@
+﻿  Asteroide.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(15,12): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(18,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(24,10): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(27,15): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(62,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(63,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(64,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(64,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(65,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(65,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(82,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(83,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(84,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(84,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(96,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(97,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(98,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(98,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(99,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Asteroide.cpp(99,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Bullet.cpp(17,12): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Bullet.cpp(20,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Bullet.cpp(26,10): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Bullet.cpp(29,15): warning C4804: '<': unsafe use of type 'bool' in operation
+  Game.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Game.cpp(40,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Game.cpp(305,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Game.cpp(318,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Game.cpp(342,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main_Window.cpp
+  Obj.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Obj.cpp(5,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Obj.cpp(10,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(34,13): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(37,18): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(43,11): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(46,16): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(64,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Macie\source\repos\Projekt\Restart\Player.cpp(70,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Status_Window.cpp
+C:\Users\Macie\source\repos\Projekt\Restart\Status_Window.cpp(60,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2071 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Restart.vcxproj -> C:\Users\Macie\source\repos\Projekt\x64\Release\Restart.exe
